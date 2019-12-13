@@ -1,4 +1,5 @@
 # ZavrsniProjekat
+Version: 1.0.0
 
 
 ### ZavrsniProjekat is used for testing functionalities  
