@@ -1,3 +1,4 @@
+![Selenium logo](https://www.selenium.dev/images/selenium_logo_large.png)
 # ZavrsniProjekat
 Version: 1.0.0
 
