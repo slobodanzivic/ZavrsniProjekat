@@ -77,3 +77,4 @@ Support classes are used in login/logout logic and for assigning driver.
 ## Folder `data` contains 2 subfolders:
 - docs - documents used for testing login
 - img - documents used for testing upload photo 
+
